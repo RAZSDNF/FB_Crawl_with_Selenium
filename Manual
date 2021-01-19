@@ -1,0 +1,7 @@
+1.# https://www.howtoinstall.me/ubuntu/18-04/chromium-chromedriver/
+Installed Chromium-driver
+sudo apt update
+sudo apt install chromium-chromedriver
+
+2. #https://askubuntu.com/questions/539498/where-does-chromedriver-install-to
+Run command : export PATH=$PATH:/usr/lib/chromium-browser/.
